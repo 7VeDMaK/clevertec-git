@@ -10,5 +10,6 @@ public class Main {
         //Start of release branch for 1.0
         //First Fix
         //Last fix
+        //Last release
     }
 }
