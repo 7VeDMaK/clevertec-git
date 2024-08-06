@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         //Last change before something in develop branch
         //Global feature 2 last change before merging
-        //Something special
+        //Something not so special
     }
 }
